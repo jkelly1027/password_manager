@@ -1,8 +1,6 @@
-# Password Manager
+# Password Manager:
 # Stores and encrypts usernames & passwords.
-# Master password used to decrypt passwords.
-# 1) Ask user for master password
-# 2) User can add or view passwords
+# User can add or view passwords
 # Want to be able to separate the username and password.
 # Want to encrypt the passwords.txt file.
 # Installed the cryptography modules using pip
